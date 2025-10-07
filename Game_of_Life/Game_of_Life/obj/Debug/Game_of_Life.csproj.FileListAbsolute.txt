@@ -1,0 +1,30 @@
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\bin\Debug\Game_of_Life.exe.config
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\bin\Debug\Game_of_Life.exe
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\bin\Debug\Game_of_Life.pdb
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.csprojAssemblyReference.cache
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\MainWindow.g.cs
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\App.g.cs
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life_MarkupCompile.cache
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life_MarkupCompile.lref
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\MainWindow.baml
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.g.resources
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.Properties.Resources.resources
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.csproj.GenerateResource.cache
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.csproj.CoreCompileInputs.cache
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.exe
+C:\Users\CsipaiRo\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.pdb
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\bin\Debug\Game_of_Life.exe.config
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\bin\Debug\Game_of_Life.exe
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\bin\Debug\Game_of_Life.pdb
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.csproj.AssemblyReference.cache
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\MainWindow.g.cs
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\App.g.cs
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life_MarkupCompile.cache
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life_MarkupCompile.lref
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\MainWindow.baml
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.g.resources
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.Properties.Resources.resources
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.csproj.GenerateResource.cache
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.csproj.CoreCompileInputs.cache
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.exe
+H:\Ausbildung Backups\Ausbildung 07.01.25\source\repos\Game_of_Life\Game_of_Life\obj\Debug\Game_of_Life.pdb
